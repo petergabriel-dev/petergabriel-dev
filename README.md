@@ -1,5 +1,5 @@
 # About Me
-<a><img src="./assets/Facebook.svg" description="Facebook Icon"></a>
+<a><img src="./assets/Facebook.svg" alt="Facebook Icon" style="width: 1rem; height: 1rem"></a>
 
 ---
 
