@@ -1,5 +1,5 @@
 # About Me
-<a href="https://www.facebook.com/plolm8"><img src="./assets/Facebook.svg" alt="Facebook Icon" style="width: 1.5rem; height: 1.5rem"></a>
+<a href="https://www.facebook.com/plolm8"><img src="./assets/Facebook.png" alt="Facebook Icon" style="width: 1.5rem; height: 1.5rem"></a>
 <a href="https://www.instagram.com/poter.gab/"><img src="./assets/Instagram.png" alt="Facebook Icon" style="width: 1.5rem; height: 1.5rem"></a>
 <a href="https://www.threads.com/@poter.gab"><img src="./assets/Threads.png" alt="Facebook Icon" style="width: 1.5rem; height: 1.5rem"></a>
 <a href="https://x.com/mrp0t3r"><img src="./assets/Twitter.svg" alt="Facebook Icon" style="width: 1.5rem; height: 1.5rem"></a>
